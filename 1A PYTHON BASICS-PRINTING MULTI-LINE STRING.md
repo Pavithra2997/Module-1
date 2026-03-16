@@ -31,4 +31,5 @@ print(string_double_quotes)
 ## OUTPUT
 
 ## RESULT
+The program prints a multiline string using both triple single(''') and triple double(""") quotes.
 
